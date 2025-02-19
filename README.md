@@ -12,8 +12,7 @@
 
 ## 🎯 Hedeflerim:
 - **Laravel ve MySQL** üzerinde daha fazla proje geliştirerek bilgimi artırmak  
-- **Unity ve oyun geliştirme** konusunda ilerlemek  
-- GitHub Education programına katılarak öğrenci fırsatlarından faydalanmak  
+- **Unity ve oyun geliştirme** konusunda ilerlemek   
 
 ## 📫 Bana Ulaşın:
 - GitHub: [https://github.com/NurevsanKaya]   

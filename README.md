@@ -1,16 +1,23 @@
-## Hi there 👋
+# Merhaba, ben [Nurevşan]! 👋  
 
-<!--
-**NurevsanKaya/NurevsanKaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Bilgisayar Programcılığı 2. sınıf öğrencisiyim.**  
+🎮 Unity ile oyun geliştiriyorum, ayrıca **Laravel & MySQL** kullanarak web projeleri yapıyorum.  
+📚 **MariaDB, MySQL ve Java** ile çalışmalarımı sürdürüyorum.  
 
-Here are some ideas to get you started:
+## 🚀 Üzerinde Çalıştığım Teknolojiler:
+- **Back-End:** PHP (Laravel), MySQL, MariaDB  
+- **Oyun Geliştirme:** Unity, C#  
+- **Programlama Dilleri:** Java, PHP, C#  
+- **Veritabanı:** MySQL, MariaDB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Hedeflerim:
+- **Laravel ve MySQL** üzerinde daha fazla proje geliştirerek bilgimi artırmak  
+- **Unity ve oyun geliştirme** konusunda ilerlemek  
+- GitHub Education programına katılarak öğrenci fırsatlarından faydalanmak  
+
+## 📫 Bana Ulaşın:
+- GitHub: [https://github.com/NurevsanKaya]   
+- Mail: [kaya.nurevsan04@gmail.com]  
+
+---
+
